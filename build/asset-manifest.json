@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Porfolio/static/css/main.dff3d765.css",
+    "main.js": "/Porfolio/static/js/main.bbd4ff05.js",
+    "static/media/musicapp.png": "/Porfolio/static/media/musicapp.635ca8877c0b2893fffb.png",
+    "static/media/sidebar.png": "/Porfolio/static/media/sidebar.93f41a82f74f5293f2b0.png",
+    "static/media/ecommerce.png": "/Porfolio/static/media/ecommerce.69d43ccedafabb525a72.png",
+    "static/media/hoc.png": "/Porfolio/static/media/hoc.fb737184de0bb08bfcdf.png",
+    "static/media/boy.png": "/Porfolio/static/media/boy.aa1d825331bb8c42abb3.png",
+    "static/media/resume.pdf": "/Porfolio/static/media/resume.8d0b3a57ae4e5788e3a8.pdf",
+    "static/media/amazon.png": "/Porfolio/static/media/amazon.4f177760d222526ff633.png",
+    "static/media/glassesimoji.png": "/Porfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Upwork.png": "/Porfolio/static/media/Upwork.08ccedab33be2a7b765c.png",
+    "static/media/Shopify.png": "/Porfolio/static/media/Shopify.0c1eb2663462b76b3192.png",
+    "static/media/Facebook.png": "/Porfolio/static/media/Facebook.cbf147594608e2660c1a.png",
+    "static/media/fiverr.png": "/Porfolio/static/media/fiverr.cf96852377f7cbed9e8c.png",
+    "static/media/thumbup.png": "/Porfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Porfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Porfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Porfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Porfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Porfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Porfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Porfolio/index.html",
+    "main.dff3d765.css.map": "/Porfolio/static/css/main.dff3d765.css.map",
+    "main.bbd4ff05.js.map": "/Porfolio/static/js/main.bbd4ff05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dff3d765.css",
+    "static/js/main.bbd4ff05.js"
+  ]
+}
